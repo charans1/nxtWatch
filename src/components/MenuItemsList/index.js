@@ -6,7 +6,7 @@ import {RiMenuAddLine} from 'react-icons/ri'
 import ActiveMenuContext from '../../Context/ActiveMenuContext'
 import ThemeContext from '../../Context/ThemeContext'
 
-import {MenuList, MenuLink, MenuHeading} from './styledComponent'
+import {MenuList, MenuLink, MenuHeading} from './styledComponents'
 
 const activeMenuConstants = {
   initial: 'INITIAL',
